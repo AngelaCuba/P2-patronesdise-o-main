@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72690966-e8d5-45f1-9194-e6c86043326b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/P2-patronesdise-o-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/ConcreteHandler1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/ConcreteHandler2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/ConcreteHandler3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/ConcreteHandler4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/IHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/ManagerHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/ChildReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/ConcreteCommand1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/ConcreteCommand2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/ConcreteCommand3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/ICommand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/Invoker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/Receiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/Colleague.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/ConcreteColleague1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/ConcreteColleague2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/ConcreteMediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/Mediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/memento/structure/Caretaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/memento/structure/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/memento/structure/ConcreteObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/memento/structure/Memento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/memento/structure/Originator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/ConcreteObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/ConcreteObserver1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/ConcreteSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/IObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/ISubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/ConcreteState1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/ConcreteState2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/ConcreteState3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/IState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MkaU4uYDWS9qe5kDc2ZT1TTZIW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Angela Cuba/PatronesParcial2-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Angela Cuba\P2-patronesdise-o-main\.idea\Templates" />
+      <recent name="C:\Angela Cuba\P2-patronesdise-o-main\.idea\Templates\memento" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72690966-e8d5-45f1-9194-e6c86043326b" name="Changes" comment="" />
+      <created>1678314046988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678314046988</updated>
+      <workItem from="1678314056956" duration="17000" />
+      <workItem from="1678314160917" duration="1068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
