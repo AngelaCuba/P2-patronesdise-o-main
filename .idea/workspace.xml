@@ -4,51 +4,139 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72690966-e8d5-45f1-9194-e6c86043326b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/P2-patronesdise-o-main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/ConcreteHandler1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/ConcreteHandler2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/ConcreteHandler3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/ConcreteHandler4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/IHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/chainofresponsibility/structure/ManagerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/ChildReceiver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/ConcreteCommand1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/ConcreteCommand2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/ConcreteCommand3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/ICommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/Invoker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/command/structure/Receiver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/Colleague.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/ConcreteColleague1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/ConcreteColleague2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/ConcreteMediator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/mediator/structure/Mediator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/memento/structure/Caretaker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/memento/structure/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/memento/structure/ConcreteObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/memento/structure/Memento.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/memento/structure/Originator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/ConcreteObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/ConcreteObserver1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/ConcreteSubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/IObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/observer/structure/ISubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/ConcreteState1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/ConcreteState2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/ConcreteState3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/Context.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Templates/state/structure/IState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="72690966-e8d5-45f1-9194-e6c86043326b" name="Changes" comment="Primer commit">
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio1/Archivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio1/BaseDeDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio1/Version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio1/VersionadorArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio2/ChatJuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio2/Docente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio2/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio2/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/examen/Ejercicio2/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/abstractFactory/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/abstractFactory/structure/ConcreteProduct1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/abstractFactory/structure/ConcreteProduct2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/abstractFactory/structure/ConcreteProduct3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/abstractFactory/structure/FactoryProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/abstractFactory/structure/IProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/builder/structure/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/builder/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/builder/structure/ConcreteBuilder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/builder/structure/ConcreteBuilder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/builder/structure/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/builder/structure/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/chainofresponsibility/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/chainofresponsibility/structure/ConcreteHandler1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/chainofresponsibility/structure/ConcreteHandler2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/chainofresponsibility/structure/ConcreteHandler3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/chainofresponsibility/structure/ConcreteHandler4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/chainofresponsibility/structure/IHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/chainofresponsibility/structure/ManagerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/command/structure/ChildReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/command/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/command/structure/ConcreteCommand1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/command/structure/ConcreteCommand2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/command/structure/ConcreteCommand3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/command/structure/ICommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/command/structure/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/command/structure/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/factorymethod/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/factorymethod/structure/ConcreteCreatorP1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/factorymethod/structure/ConcreteCreatorP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/factorymethod/structure/ConcreteProduct1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/factorymethod/structure/ConcreteProduct2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/factorymethod/structure/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/factorymethod/structure/IProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/interpreter/structure/AbstractExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/interpreter/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/interpreter/structure/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/interpreter/structure/NonTerminalExpressionParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/interpreter/structure/TerminalExpressionA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/interpreter/structure/TerminalExpressionB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/interpreter/structure/TerminalExpressionC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/interpreter/structure/TerminalExpressionD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/interpreter/structure/TerminalExpressionE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/iterator/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/iterator/structure/ConcreteAggregateA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/iterator/structure/ConcreteAggregateB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/iterator/structure/ConcreteIteratorA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/iterator/structure/ConcreteIteratorB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/iterator/structure/IAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/iterator/structure/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/mediator/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/mediator/structure/Colleague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/mediator/structure/ConcreteColleague1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/mediator/structure/ConcreteColleague2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/mediator/structure/ConcreteMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/mediator/structure/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/memento/structure/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/memento/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/memento/structure/ConcreteObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/memento/structure/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/memento/structure/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/observer/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/observer/structure/ConcreteObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/observer/structure/ConcreteObserver1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/observer/structure/ConcreteSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/observer/structure/IObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/observer/structure/ISubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/prototype/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/prototype/structure/ConcretePrototype1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/prototype/structure/ConcretePrototype2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/prototype/structure/IPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/singleton/structure/ClientSingleton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/singleton/structure/ClientSingleton2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/singleton/structure/ClientSingleton3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/singleton/structure/ClientSingleton3Correct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/singleton/structure/Singleton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/singleton/structure/Singleton2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/singleton/structure/Singleton3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/singleton/structure/Singleton4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/state/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/state/structure/ConcreteState1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/state/structure/ConcreteState2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/state/structure/ConcreteState3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/state/structure/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/state/structure/IState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/strategy/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/strategy/structure/ConcreteStrategy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/strategy/structure/ConcreteStrategy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/strategy/structure/ConcreteStrategy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/strategy/structure/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/strategy/structure/IStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/templatemethod/structure/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/templatemethod/structure/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/templatemethod/structure/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parcial2/templates/templatemethod/structure/Persona2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/mediator/structure/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/mediator/structure/Colleague.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/mediator/structure/ConcreteColleague1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/mediator/structure/ConcreteColleague2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/mediator/structure/ConcreteMediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/mediator/structure/Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/memento/structure/Caretaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/memento/structure/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/memento/structure/ConcreteObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/memento/structure/Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/memento/structure/Originator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/observer/structure/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/observer/structure/ConcreteObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/observer/structure/ConcreteObserver1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/observer/structure/ConcreteSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/observer/structure/IObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/observer/structure/ISubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/state/structure/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/state/structure/ConcreteState1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/state/structure/ConcreteState2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/state/structure/ConcreteState3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/state/structure/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Templates/state/structure/IState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +159,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Angela Cuba/PatronesParcial2-main",
+    "last_opened_file_path": "C:/Angela Cuba/P2-patronesdise-o-main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,11 +185,23 @@
       <option name="presentableId" value="Default" />
       <updated>1678314046988</updated>
       <workItem from="1678314056956" duration="17000" />
-      <workItem from="1678314160917" duration="1068000" />
+      <workItem from="1678314160917" duration="3127000" />
     </task>
+    <task id="LOCAL-00001" summary="Primer commit">
+      <created>1678315457930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678315457930</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
   </component>
 </project>
